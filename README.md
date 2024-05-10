@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Undergraduate Student in the Department of Physics at the Indian Institute of Technology Kharagpur
+
 <!--
 **Lokesh-Manickavasaham/Lokesh-Manickavasaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
