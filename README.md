@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Undergraduate Student in the Department of Physics at the Indian Institute of Technology Kharagpur
+Intersted in Astronomy and Astrophysics
 
 <!--
 **Lokesh-Manickavasaham/Lokesh-Manickavasaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
