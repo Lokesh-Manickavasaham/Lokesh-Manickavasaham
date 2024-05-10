@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Undergraduate Student in the Department of Physics at the Indian Institute of Technology Kharagpur
+Undergraduate Student in the Department of Physics at the Indian Institute of Technology Kharagpur  
 Intersted in Astronomy and Astrophysics
 
 <!--
