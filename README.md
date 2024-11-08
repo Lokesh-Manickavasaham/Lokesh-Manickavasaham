@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am an undergraduate student in the Department of Physics at the Indian Institute of Technology Kharagpur.  
-My research interests are Exoplanetary Studies, Star Formation, Galactic Evolution and Gravitational Waves.
+My research interests are Exoplanetary Studies, Planet Formation, Galactic Evolution and Gravitational Waves.
 
 <!--
 **Lokesh-Manickavasaham/Lokesh-Manickavasaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
